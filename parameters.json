@@ -1,0 +1,27 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "functionName": {
+            "value": "FunctionApp"
+        },
+        "workspaceID": {
+            "value": "<workspaceID>"
+        },
+        "workspaceKey": {
+            "value": "<workspaceKey>"
+        },
+        "clientID": {
+            "value": "<clientID>"
+        },
+        "clientSecret": {
+            "value": "<clientSecret>"
+        },
+        "uri": {
+            "value": "<enter the url string here>"
+        },
+        "tenantID": {
+            "value": "<tenantID>"
+        }
+    }
+}
