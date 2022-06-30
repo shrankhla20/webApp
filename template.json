@@ -24,10 +24,6 @@
             "defaultValue": "<clientSecret>",
             "type": "String"
         },
-        "Uri": {
-            "defaultValue": "<enter the url string here>",
-            "type": "String"
-        },
         "TenantID": {
             "defaultValue": "<tenantID>",
             "type": "String"
